@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Madrasa LMS in Urdu**
 
-- 💬 Ask me about **Python , Php , tailwindcss , bootstrap, ML, Java`**
+- 💬 Ask me about **Python , Php , tailwindcss , bootstrap, ML, Java**
 
 - 📫 How to reach me **UmarPervaiz.Pk@gmail.com**
 
