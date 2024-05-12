@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Umar Pervaiz</h1>
-<h3 align="center">A passionate Web & Web Application developer | CEO Ride 2 Future Solutions</h3>
+<h3 align="center">A passionate Web & Web Application developer | CEO CodeX Solutions</h3>
 <img align="right" class="mt-2" alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhsa3dkcWV6amJrenJiMXVxNXcwY2tyNjlsY2I3MndzN2dyaXJiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UmarPervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="UmarPervaiz" /> </p>
 
